@@ -1,4 +1,4 @@
-# ArdunioAlmostTouchLamp
+# ArduinoAlmostTouchLamp
 Proximity sensor based lamp 
 
 A string of NeoPixel LED's which turn on or off  one by one based on how you long you hold something over the proximity sensor. 
